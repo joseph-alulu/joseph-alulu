@@ -41,7 +41,7 @@ I am a Research Scientific Staff at the **Albrecht Daniel Thaer-Institute of Agr
 ---
 
 ## Selected Publications
-- Alulu, J.**, Muendo, K., Donkor, E., & Mithöfer, D. (2025). *Linking Entrepreneurial Orientation Dimensions with Retailer Procurement Strategies: A Generalized Structural Equation Modelling.* [https://doi.org/10.21203/rs.3.rs-6447113/v1](https://doi.org/10.21203/rs.3.rs-6447113/v1)
+- Alulu, J., Muendo, K., Donkor, E., & Mithöfer, D. (2025). *Linking Entrepreneurial Orientation Dimensions with Retailer Procurement Strategies: A Generalized Structural Equation Modelling.* [https://doi.org/10.21203/rs.3.rs-6447113/v1](https://doi.org/10.21203/rs.3.rs-6447113/v1)
 
 - **Alulu, J.**, Muendo, K., Mbeche, R., & Mithöfer, D. (2025). *Collective action, entrepreneurial orientation and performance among African indigenous vegetables producers in Kenya*. *Journal of Agribusiness in Developing and Emerging Economies*, ahead-of-print. [https://doi.org/10.1108/JADEE-06-2024-0196](https://doi.org/10.1108/JADEE-06-2024-0196)
 
