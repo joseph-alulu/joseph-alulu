@@ -47,7 +47,7 @@ I am a Research Scientific Staff at the **Albrecht Daniel Thaer-Institute of Agr
 
 - **Alulu, J.**, Muendo, K., Mbeche, R., & Mithöfer, D. (2025). *Seed innovations and performance of African indigenous vegetables producers: Evidence from Kenya*. [Agecon Search](https://ageconsearch.umn.edu/record/344235)
 
-- **Alulu, J.**, Makyao, M., Huyskens-Keil, S., Lenz, B., Muendo, K. M., Mganilwa, Z., ... & Mithöfer, D. (2023). *Distribution, transportation, and coordination in African indigenous vegetables value chains: A scoping review*. *Frontiers in Environmental Economics*, 2. [https://doi.org/10.3389/frevc.2023.1113826](https://doi.org/10.3389/frevc.2023.1113826)
+- **Alulu, J., Makyao, M., Huyskens-Keil, S., Lenz, B., Muendo, K. M., Mganilwa, Z., ... & Mithöfer, D. (2023). *Distribution, transportation, and coordination in African indigenous vegetables value chains: A scoping review*. *Frontiers in Environmental Economics*, 2. [https://doi.org/10.3389/frevc.2023.1113826](https://doi.org/10.3389/frevc.2023.1113826)
 
 - **Alulu, J.**, Otieno, D. J., Oluoch-Kosura, W., & Ochieng, J. (2021). *Comparison of technical efficiency and technology gaps between contracted and non-contracted vegetable farmers in Western Kenya*. *Cogent Food & Agriculture*, 7(1). [https://doi.org/10.1080/23311932.2021.1910156](https://doi.org/10.1080/23311932.2021.1910156)
 
