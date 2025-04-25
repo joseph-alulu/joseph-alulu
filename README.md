@@ -5,7 +5,7 @@ I am a Research Scientific Staff at the **Albrecht Daniel Thaer-Institute of Agr
 
 ---
 
-## 🧠 Research Interests
+## Research Interests
 
 - Agricultural development policy  
 - Rural factor and product markets  
@@ -27,7 +27,7 @@ I am a Research Scientific Staff at the **Albrecht Daniel Thaer-Institute of Agr
 
 ---
 
-## 🛠️ Current Responsibilities
+## Current Responsibilities
 
 - Conducting research across multiple projects  
 - Project management and grant proposal writing  
@@ -40,7 +40,7 @@ I am a Research Scientific Staff at the **Albrecht Daniel Thaer-Institute of Agr
 
 ---
 
-## 📚 Selected Publications
+## Selected Publications
 
 - **Alulu, J.**, Muendo, K., Mbeche, R., & Mithöfer, D. (2025). *Collective action, entrepreneurial orientation and performance among African indigenous vegetables producers in Kenya*. *Journal of Agribusiness in Developing and Emerging Economies*, ahead-of-print. [https://doi.org/10.1108/JADEE-06-2024-0196](https://doi.org/10.1108/JADEE-06-2024-0196)
 
